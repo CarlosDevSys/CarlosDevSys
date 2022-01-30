@@ -16,6 +16,7 @@
   <img align="center" alt="Rafa-Ts" height="50" width="50" padding="0.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Rafa-Ts" height="50" width="50" padding="0.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
   <img align="center" alt="Rafa-Ts" height="50" width="50" padding="0.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
+  <img align="center" alt="Rafa-Ts" height="50" width="50" padding="0.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
   
 ##  
