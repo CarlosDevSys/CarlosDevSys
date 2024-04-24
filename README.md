@@ -1,9 +1,22 @@
 ### Olá sou Carlos Eduardo, Desenvolvedor de Software! 👋
 
+<p>Formado em Analise e desenvolvimento de sistemas, continuamente estudando programação e seus principais tópicos com objeto de me tornar programador Fullstack Java e engenheiro de software.</p>
+<ul>
+  <li>Java</li> 
+   <li>Springboot</li>
+  <li>Javascrpit</li>
+   <li>HTML e CSS</li>
+    <li>SQL</li>
+    <li>Scrumm</li>
+     <li>Devops</li>
+</ul>
+
 <div align="left">
   <a href="https://github.com/CarlosDevSys">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosdevsys&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosdevsys&theme=dark&show_icons=true&include_all_commits=true&count_private=true&layout=compact"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdevsys&layout=compact&langs_count=7&theme=github_dark"/>
+
 </div>
   
 <div style="display: inline_block"><br>
@@ -18,7 +31,8 @@
   <img align="center" alt="Rafa-Ts" height="50" width="50" padding="0.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
   <img align="center" alt="Rafa-Ts" height="50" width="50" padding="0.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
-  
+
+
 ##  
 <div> 
   <a href = "mailto:cdealmeidavieira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
